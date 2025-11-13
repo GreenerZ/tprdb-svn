@@ -1,0 +1,40 @@
+<LogFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Project>
+    <FileName></FileName>
+    <Description></Description>
+    <versionString />
+
+    <Languages source="en" target="es" task="translating" />
+    <Plugins>
+      <Key_Logger />
+    </Plugins>
+    <Interface>
+      <Standard>
+        <pluginDependances />
+        <Settings>
+          <TargetBackgroundColor RGB="-1" />
+          <SourceBackgroundColor RGB="-1" />
+          <lineHeight source="1" target="1" />
+          <SourceText></SourceText>
+		  <TargetText></TargetText>
+          <TranslationWindow X="0" Y="0" Width="1200" Height="700" Split="350" STO="True" VHO="Horizontal" />
+        </Settings>
+        <SourceField X="6" Y="56" Width="1272" Height="479" />
+        <TargetField X="6" Y="539" Width="1272" Height="483" />
+      </Standard>
+    </Interface>
+  </Project>
+  <Events>
+    <System Time="0" Value="START" />
+	<Key />
+    <System Time="1565453" Value="STOP" />   
+  </Events>
+  <FinalText></FinalText>
+  <TranslationChar />
+  <SourceTextChar>
+    <CharPos Cursor="0" Value="S" X="3" Y="27" Width="20" Height="30" />
+  </SourceTextChar>
+  <FinalTextChar>
+    <CharPos Cursor="0" Value="S" X="3" Y="510" Width="20" Height="30" />
+  </FinalTextChar>
+</LogFile>
